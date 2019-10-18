@@ -4,3 +4,6 @@
 # Whitelist Files
 !.gitignore
 !README.md
+
+# Whitelist Directories
+!/terraform/**
