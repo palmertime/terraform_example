@@ -3,7 +3,7 @@
 
 # Whitelist Files
 !.gitignore
-!README.md
-
-# Whitelist Directories
-!/terraform/**
+!/README.md
+!/LICENSE
+!terraform/
+!terraform/**/

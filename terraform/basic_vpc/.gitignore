@@ -1,0 +1,9 @@
+# Ignore all
+*
+
+# Whitelist
+!/.gitignore
+!/main.tf
+!/README.md
+!/terraform.tf
+!/variables.tf
